@@ -2,7 +2,6 @@
   "name": "libsignal-node",
   "version": "1.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "ramadanny/libsignal-node",
   "main": "index.js",
   "keywords": [
     "signal",
